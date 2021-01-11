@@ -22,7 +22,7 @@ const myMethodFilter = {
       }
     }
 // myFilter test operation 
-onsole.log(myMethodFilter.myFilter(numbers, (age) => age > 55));
+console.log(myMethodFilter.myFilter(numbers, (age) => age > 55));
 
 //function declared to test the operation of myMap, myFind, myFindIndex
 function myFunction(num) {
